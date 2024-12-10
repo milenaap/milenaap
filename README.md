@@ -7,21 +7,21 @@ Actualmente, estoy integrando habilidades tecnológicas para aportar soluciones 
 
 ## 🚀 **Proyectos Personales**  
 🔧 *Proyectos en construcción:*  
-- **[Splityn](#)** - Plataforma ERP/CRM.  
-- **[API Splityn](#)** - API para la integración de sistemas.  
-- **[Famimusic](#)** - Herramienta para la creación de melodías.  
-- **[Famindex](#)** - Sistema de gestión de información familiar.  
+- **[Splityn](https://splytin.com/)** - Plataforma ERP/CRM.  
+- **[API Splityn](https://api.splytin.com/)** - API para la integración de sistemas.  
+- **[Famimusic](https://music.famindex.com/)** - Herramienta para la creación de melodías.  
+- **[Famindex](https://famindex.com/)** - Sistema de gestión de información familiar.  
 
 ---
 
 ## 📚 **Proyectos Formativos**  
 🎓 *Aprendiendo y explorando nuevas tecnologías:*  
-- 🎸 **[Guitarra](#)** - Aplicación interactiva para aprender acordes.  
-- 🧩 **[Juego Ahorcado](#)** - Un clásico de juegos de palabras.  
-- 🛍️ **[Tienda](#)** - Plataforma básica de comercio electrónico.  
-- 📝 **[Gestor de Tareas](#)** - Herramienta para organizar tareas diarias.  
-- 🐾 **[Pokemons](#)** - Explorador de Pokémon con estadísticas.  
-- 🔢 **[Mi Primer Proyecto Contador](#)** - Un contador básico para iniciar en la programación.  
+- 🎸 **[Guitarra](https://cool-phoenix-cbbc70.netlify.app/)** - Aplicación interactiva para aprender acordes.  
+- 🧩 **[Juego Ahorcado](https://mi-primer-juego-mile.netlify.app/)** - Un clásico de juegos de palabras.  
+- 🛍️ **[Tienda](https://quiet-dasik-c8d7ba.netlify.app/)** - Plataforma básica de comercio electrónico.  
+- 📝 **[Gestor de Tareas](https://funny-liger-3cd499.netlify.app/)** - Herramienta para organizar tareas diarias.  
+- 🐾 **[Pokemons](https://fancy-alpaca-94d916.netlify.app/pokemons)** - Explorador de Pokémon con estadísticas.  
+- 🔢 **[Mi Primer Proyecto Contador](https://my-first-project-m.netlify.app/)** - Un contador básico para iniciar en la programación.  
 
 ---
 
