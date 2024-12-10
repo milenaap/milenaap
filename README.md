@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Proyectos Personales en construcción
--**[Splityn](https://splytin.com/)**
--**[Api_Splityn](https://api.splytin.com/)**
--**[Famimusic](https://music.famindex.com/)**
--**[Famindex](https://famindex.com/)**
+- **[Splityn](https://splytin.com/)**
+- **[Api_Splityn](https://api.splytin.com/)**
+- **[Famimusic](https://music.famindex.com/)**
+- **[Famindex](https://famindex.com/)**
 ### Proyectos formativos
 - **[Guitarra](https://cool-phoenix-cbbc70.netlify.app/)**
 - **[Juego Ahorcado](https://mi-primer-juego-mile.netlify.app/)**
