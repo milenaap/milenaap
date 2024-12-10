@@ -2,7 +2,7 @@
 
 ### Proyectos Personales en construcción
 - **[Splityn](https://splytin.com/)**
-- **[Api_Splityn](https://api.splytin.com/)**
+- **[Api Splityn](https://api.splytin.com/)**
 - **[Famimusic](https://music.famindex.com/)**
 - **[Famindex](https://famindex.com/)**
 ### Proyectos formativos
