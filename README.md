@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 I'm Milena Aguilar
+
+## Actualmente enfocada en integrar habilidades tecnológicas para aportar soluciones innovadoras y eficientes en proyectos de desarrollo web
 
 ### Proyectos Personales en construcción
 - **[Splityn](https://splytin.com/)**
