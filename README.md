@@ -1,30 +1,41 @@
-## 👋 I'm Milena Aguilar
+# 👋 ¡Hola! Soy **Milena Aguilar**
 
-## Actualmente enfocada en integrar habilidades tecnológicas para aportar soluciones innovadoras y eficientes en proyectos de desarrollo web
+🌟 **Desarrolladora Web en formación**  
+Actualmente, estoy integrando habilidades tecnológicas para aportar soluciones innovadoras y eficientes en proyectos de desarrollo web.
 
-### Proyectos Personales en construcción
-- **[Splityn](https://splytin.com/)**
-- **[Api Splityn](https://api.splytin.com/)**
-- **[Famimusic](https://music.famindex.com/)**
-- **[Famindex](https://famindex.com/)**
-### Proyectos formativos
-- **[Guitarra](https://cool-phoenix-cbbc70.netlify.app/)**
-- **[Juego Ahorcado](https://mi-primer-juego-mile.netlify.app/)**
-- **[Tienda](https://quiet-dasik-c8d7ba.netlify.app/)**
-- **[Gestor de Tareas](https://funny-liger-3cd499.netlify.app/)**
-- **[Pokemons](https://fancy-alpaca-94d916.netlify.app/pokemons)**
-- **[Mi Primer Proyecto Contador](https://my-first-project-m.netlify.app/)**
-<!--
-**milenaap/milenaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 **Proyectos Personales**  
+🔧 *Proyectos en construcción:*  
+- **[Splityn](#)** - Plataforma ERP/CRM.  
+- **[API Splityn](#)** - API para la integración de sistemas.  
+- **[Famimusic](#)** - Herramienta para la creación de melodías.  
+- **[Famindex](#)** - Sistema de gestión de información familiar.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 **Proyectos Formativos**  
+🎓 *Aprendiendo y explorando nuevas tecnologías:*  
+- 🎸 **[Guitarra](#)** - Aplicación interactiva para aprender acordes.  
+- 🧩 **[Juego Ahorcado](#)** - Un clásico de juegos de palabras.  
+- 🛍️ **[Tienda](#)** - Plataforma básica de comercio electrónico.  
+- 📝 **[Gestor de Tareas](#)** - Herramienta para organizar tareas diarias.  
+- 🐾 **[Pokemons](#)** - Explorador de Pokémon con estadísticas.  
+- 🔢 **[Mi Primer Proyecto Contador](#)** - Un contador básico para iniciar en la programación.  
+
+---
+
+## 💡 **Habilidades Técnicas**  
+- Lenguajes: `HTML`, `CSS`, `JavaScript`, `Python`, `PHP`.  
+- Frameworks: `Vue.js`, `Tailwind CSS`, `Bootstrap`.  
+- Herramientas: `Git`, `MySQL`, `Figma`, `Visual Studio Code`.  
+
+---
+
+## 🌍 **Encuéntrame en**  
+- 🌐 [Mi LinkedIn](https://www.linkedin.com/in/milena-a-393b0b14b/)  
+- 📧 **Contacto:** darimile@gmail.com  
+
+---
+
+Gracias por visitar mi perfil. 🚀 ¡Estoy emocionada por compartir mi aprendizaje y proyectos contigo!
