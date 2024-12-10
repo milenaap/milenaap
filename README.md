@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 ### Proyectos realizados
-- **[Proyecto Guitarra](https://cool-phoenix-cbbc70.netlify.app/)**
+- **[Guitarra](https://cool-phoenix-cbbc70.netlify.app/)**
+- **[Juego Ahorcado](https://mi-primer-juego-mile.netlify.app/)**
+- **[Tienda](https://quiet-dasik-c8d7ba.netlify.app/)**
+- **[Gestor de Tareas](https://funny-liger-3cd499.netlify.app/)**
+- **[Pokemons](https://fancy-alpaca-94d916.netlify.app/pokemons)**
+- **[Mi Primer_Proyecto_Contador](https://my-first-project-m.netlify.app/)**
 <!--
 **milenaap/milenaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
