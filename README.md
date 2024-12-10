@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-### Proyectos realizados
+### Proyectos Personales en construcción
+-**[Splityn](https://splytin.com/)**
+-**[Api_Splityn](https://api.splytin.com/)**
+-**[Famimusic](https://music.famindex.com/)**
+-**[Famindex](https://famindex.com/)**
+### Proyectos formativos
 - **[Guitarra](https://cool-phoenix-cbbc70.netlify.app/)**
 - **[Juego Ahorcado](https://mi-primer-juego-mile.netlify.app/)**
 - **[Tienda](https://quiet-dasik-c8d7ba.netlify.app/)**
