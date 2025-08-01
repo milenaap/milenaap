@@ -51,14 +51,6 @@ Actualmente desarrollo **plataformas web, APIs y herramientas interactivas** mie
 
 ---
 
-## 📊 **Mis Estadísticas de GitHub**  
-
-![Milena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milenaap&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaap&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=milenaap&theme=radical)
-
----
-
 ## 🌍 **Conecta conmigo**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/milena-a-393b0b14b/)  
 - 📧 **darimile@gmail.com**  
