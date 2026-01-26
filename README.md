@@ -78,6 +78,12 @@ https://fancy-alpaca-94d916.netlify.app/pokemons
 
 ---
 
+## 📊 **Mis Estadísticas de GitHub**  
+
+![Milena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milenaap&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaap&layout=compact&theme=radical)  
+
+
 ## 🎯 En este momento estoy centrada en:
 - Profundizar en **PHP/Laravel** y desarrollo de APIs  
 - Mejorar arquitectura backend con **Node + GraphQL**  
