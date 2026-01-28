@@ -30,7 +30,7 @@ Proyecto académico en Java con persistencia de datos y lógica de negocio, adem
 ## 🧪 Proyectos de aprendizaje
 
 - 🎸 **Guitarra interactiva**  
-https://cool-phoenix-cbbc70.netlify.app/
+https://guitar-vue-cbbc70.netlify.app/
 
 - 🧩 **Juego del Ahorcado**  
 https://mi-primer-juego-mile.netlify.app/
