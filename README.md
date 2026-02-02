@@ -78,12 +78,11 @@ Proyecto académico en Java con persistencia de datos y lógica de negocio, adem
 
 ---
 
-## 📊 Mis Estadísticas de GitHub  
+## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milenaap&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaap&layout=compact&theme=radical" />
-</p>
+![Followers](https://img.shields.io/github/followers/milenaap?style=flat)
+![Stars](https://img.shields.io/github/stars/milenaap?style=flat)
+![Repos](https://img.shields.io/github/repo-size/milenaap/milenaap?label=profile%20size)
 
 
 ## 🎯 En este momento estoy centrada en:
