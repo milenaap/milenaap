@@ -78,10 +78,10 @@ Proyecto académico en Java con persistencia de datos y lógica de negocio, adem
 
 ---
 
-## 📊 **Mis Estadísticas de GitHub**  
+## 📊 Mis Estadísticas de GitHub  
 
-![Milena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milenaap&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaap&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milenaap&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaap&layout=compact&theme=radical) 
 
 
 ## 🎯 En este momento estoy centrada en:
