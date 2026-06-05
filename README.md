@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Milena Aguilar**
 
-💻 **Junior Web Developer | DAW student | Perfil híbrido: Finanzas + Tecnología**
+💻 **Junior Web Developer | DAW | Perfil híbrido: Finanzas + Tecnología**
 
 Vengo del mundo de la **contabilidad y gestión empresarial**, donde desarrollé una fuerte **capacidad analítica, orientación a procesos y atención al detalle**.  
 Actualmente estoy finalizando el FP de **Desarrollo de Aplicaciones Web (DAW)** y enfocando mi carrera al desarrollo de software.
